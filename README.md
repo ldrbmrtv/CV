@@ -81,4 +81,4 @@ The goal of the thesis was complex automation of model selection and hyperparame
 - Saint-Petersburg, Russia
 - baimuratov.i@gmail.com
 - [faculty page](https://scs.ifmo.ru/en/viewperson/224068/baimuratov-ildar.htm)
-- [linkedin](https://www.linkedin.com/in/ildar-baimuratov-7496871b1/)
+- [LinkedIn](https://www.linkedin.com/in/ildar-baimuratov-7496871b1/)
