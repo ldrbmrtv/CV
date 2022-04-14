@@ -68,7 +68,7 @@ See [google scholar](https://scholar.google.se/citations?user=aG08GegAAAAJ) or [
 -	Automation of machine learning pipeline design based on an ontological model of meta-learning
 
 # Other
--	Creator of scientific workshop of Faculty of Software Engineering and Computer Systems, ITMO University
+-	Creator of [scientific workshop](https://ldrbmrtv.github.io/SCS.Workshop/) of Faculty of Software Engineering and Computer Systems, ITMO University
 -	Member of the Council of Young Scientists of ITMO University
 -	Chairman at the conferences: MICSECS 2020, Conference of young scientists of ITMO University X (2021)
 -	Member of a program committee: MICSECS 2021
