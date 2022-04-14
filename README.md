@@ -32,7 +32,7 @@ The goal of the thesis was complex automation of model selection and hyperparame
 -	Research tools: Latex, Jupyter Notebook, Google colab, WebAnno/Inception
 
 ## Working experience
-- 2019-…  ITMO University, Faculty of Software Engineering and Computer Systems, [associate professor](https://scs.ifmo.ru/en/viewperson/224068/baimuratov-ildar.htm), engineer. Responsibilities: R&D, project management, lecturing, supervising
+- 2019-…  ITMO University, Faculty of Software Engineering and Computer Systems, [associate professor](https://scs.ifmo.ru/en/viewperson/224068/baimuratov-ildar.htm), software developer. Responsibilities: R&D, project management, lecturing, supervising
 
 ## Industrial projects
 - 2018-2020 Cyber-physical systems management: research on clustering automation, prototyping, publishing scientific articles, participation in conferences
