@@ -47,8 +47,9 @@ The goal of the thesis was complex automation of model selection and hyperparame
 
 ## Publications
 
-- [google scholar](https://scholar.google.se/citations?user=aG08GegAAAAJ)
-- [researchgate](https://www.researchgate.net/profile/Ildar-Baimuratov)
+- [Google scholar](https://scholar.google.se/citations?user=aG08GegAAAAJ)
+- [ResearchGate](https://www.researchgate.net/profile/Ildar-Baimuratov)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57204417976)
 
 ## Lecturing
 -	Non-classical logics (master’s students)
