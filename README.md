@@ -26,10 +26,10 @@ The goal of the thesis was complex automation of model selection and hyperparame
 -	Programming and scripting languages: Python, SQL
 -	Data libs: NLTK, OpenCV, BeautifulSoup, tesseract, SQLAlchemy, NumPy, pandas
 -	ML libs: SciPy, sklearn, mlxtend, statsmodels, Keras, transformers
--	Visualization: matplotlib, plotly, Graphviz, 
+-	Visualization: matplotlib, plotly, graphviz 
 -	App libs: click , Flask, Dash
 -	Semantic technologies: Protégé, owlready2, SPARQL
--	Research tools: Latex, Jupyter Notebook, Google colab, WebAnno
+-	Research tools: Latex, Jupyter Notebook, Google colab, WebAnno/Inception
 
 ## Working experience
 - 2019-…  ITMO University, Faculty of Software Engineering and Computer Systems, associate professor, engineer. Responsibilities: R&D, project management, lecturing, supervising
