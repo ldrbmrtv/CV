@@ -11,8 +11,8 @@
 - Artificial general intelligence
 
 ## Education
-- 2009-2014	Specialist Student (equiv. to MD). Faculty of Philosophy, SPBU, St. Petersburg, Russia. Specialization: Logic
-- 2016-2020 Ph.D. student. Faculty of Software Engineering and Computer Systems, ITMO University, St. Petersburg, Russia. Thesis: The method of data models complex evaluation for automated unsupervised machine learning
+- 2009-2014	Specialist Student (equiv. to MD). Faculty of Philosophy, [SPBU](https://english.spbu.ru/), St. Petersburg, Russia. Specialization: Logic
+- 2016-2020 Ph.D. student. Faculty of Software Engineering and Computer Systems, [ITMO University](https://en.itmo.ru/), St. Petersburg, Russia. Thesis: The method of data models complex evaluation for automated unsupervised machine learning
 
 ## PhD thesis
 The goal of the thesis was complex automation of model selection and hyperparameter optimization for unsupervised learning algorithms based on information evaluation of learning models. Results:
@@ -32,7 +32,7 @@ The goal of the thesis was complex automation of model selection and hyperparame
 -	Research tools: Latex, Jupyter Notebook, Google colab, WebAnno/Inception
 
 ## Working experience
-- 2019-…  ITMO University, Faculty of Software Engineering and Computer Systems, associate professor, engineer. Responsibilities: R&D, project management, lecturing, supervising
+- 2019-…  ITMO University, Faculty of Software Engineering and Computer Systems, [associate professor](https://scs.ifmo.ru/en/viewperson/224068/baimuratov-ildar.htm), engineer. Responsibilities: R&D, project management, lecturing, supervising
 
 ## Industrial projects
 - 2018-2020 Cyber-physical systems management: research on clustering automation, prototyping, publishing scientific articles, participation in conferences
@@ -80,5 +80,4 @@ The goal of the thesis was complex automation of model selection and hyperparame
 ## Contacts:
 - Saint-Petersburg, Russia
 - baimuratov.i@gmail.com
-- [faculty page](https://scs.ifmo.ru/en/viewperson/224068/baimuratov-ildar.htm)
 - [LinkedIn](https://www.linkedin.com/in/ildar-baimuratov-7496871b1/)
