@@ -58,20 +58,7 @@ The goal of the thesis was complex automation of model selection and hyperparame
 
 ## Supervising
 
-See [research topics](topics.md)
-
-### Master’s students
--	An application for formal assessment and comparison of ontology visualizations
--	A library for ontology learning based on unsupervised automated machine learning
--	Automation of machine learning pipeline design based on the ontological approach
--	A method for optimizing the number of clusters for the k-means algorithm based on Bayesian optimization
--	A method for neural architect search for clustering problems
--	An application for semantic-oriented visualization of ontologies based on the Logic Graphs language
--	An application for extracting requirements bases based on industry standards and classifiers
-
-### PhD students
--	The method of diagrammatic verification of ontologies based on ALC description logic
--	Automation of machine learning pipeline design based on an ontological model of meta-learning
+See [Research topics](topics.md)
 
 ## Other
 -	Creator of [scientific workshop](https://ldrbmrtv.github.io/SCS.Workshop/) of Faculty of Software Engineering and Computer Systems, ITMO University
