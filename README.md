@@ -53,7 +53,7 @@ The goal of the thesis was complex automation of model selection and hyperparame
 ## Lecturing
 -	Non-classical logics (master’s students)
 -	Machine learning methods (master’s students)
--	[Contemporary AI methods (PhD students)](https://www.youtube.com/channel/UCIsw-78RXEm3LYSl4Ry0-WQ)
+-	[Contemporary AI methods](https://www.youtube.com/channel/UCIsw-78RXEm3LYSl4Ry0-WQ) (PhD students)
 
 ## Supervising
 
