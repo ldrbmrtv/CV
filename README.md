@@ -47,7 +47,7 @@ The goal of the thesis was complex automation of model selection and hyperparame
 
 ## Publications
 
-- [Google scholar](https://scholar.google.se/citations?user=aG08GegAAAAJ)
+- [Google Scholar](https://scholar.google.se/citations?user=aG08GegAAAAJ)
 - [ResearchGate](https://www.researchgate.net/profile/Ildar-Baimuratov)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57204417976)
 
