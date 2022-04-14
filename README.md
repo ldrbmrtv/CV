@@ -43,7 +43,7 @@ The goal of the thesis was complex automation of model selection and hyperparame
 
 ## Research projects
 - [AutoKE](https://ldrbmrtv.github.io/AutoKE/)
-- Logic Graphs
+- [Logic Graphs](https://logic-graphs.github.io/)
 
 ## Publications
 
