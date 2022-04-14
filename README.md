@@ -17,7 +17,7 @@
 ## PhD thesis
 The goal of the thesis was complex automation of model selection and hyperparameter optimization for unsupervised learning algorithms based on information evaluation of learning models. Results:
 -	A formal model of unsupervised learning, describing learning models with set-theoretic operations, namely factorizations, compositions, and partitions. Provides a base for complex model selection and hyperparameter optimization
--	A set of information measures for unsupervised learning models evaluation, namely for dimensionality, model complexity, and label partitions, using adjustment for chance technique. Provides complex model selection and hyperparameter optimization.
+-	A set of information measures for unsupervised learning models evaluation, namely for dimensionality, model complexity, and label partitions, using adjustment for chance technique. Provides complex model selection and hyperparameter optimization
 -	A method of hyperparameter selection for unsupervised learning algorithms via prior information criteria, based on objective prior distributions for partitions and decision-making rules, applied to the proposed information measures. The method exceeds random hyperparameter selection or using constant hyperparameters with equal time complexity
 
 ## Computer Skills
