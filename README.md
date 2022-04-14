@@ -7,7 +7,7 @@
 - Knowledge extraction
 - Unsupervised learning
 - Automated machine learning
-- Explainable Artificial Intelligence
+- Explainable/Trustworthy Artificial Intelligence
 - Artificial general intelligence
 
 ## Education
