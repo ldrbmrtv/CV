@@ -44,3 +44,8 @@ Project with [NormaCS](https://www.normacs.ru/):
 
 [Logic Graphs](https://logic-graphs.github.io/) project at ITMO University:
 - A method of diagrammatic verification of ontologies based on SHIF description logic
+
+Project at ITMO University:
+- A method for logical federated decision trees learning
+- A method for game-theoretic decision trees regularization
+- A method of knowledge exchange for knowledge bases based on epistemic logic
