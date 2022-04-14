@@ -58,6 +58,8 @@ The goal of the thesis was complex automation of model selection and hyperparame
 
 ## Supervising
 
+See [research topics](topics.md)
+
 ### Master’s students
 -	An application for formal assessment and comparison of ontology visualizations
 -	A library for ontology learning based on unsupervised automated machine learning
