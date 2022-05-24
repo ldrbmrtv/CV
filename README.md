@@ -52,6 +52,7 @@ The goal of the thesis was complex automation of model selection and hyperparame
 - 2021-…  Development of an intelligent data management module for a media asset management platform: prototyping, architecture design, software development, testing, writing documentation
 
 ## Research projects
+- [Gray-box Clustering](https://github.com/Gray-Box-Clustering)
 - [AutoKE](https://ldrbmrtv.github.io/AutoKE/)
 - [Logic Graphs](https://logic-graphs.github.io/)
 
