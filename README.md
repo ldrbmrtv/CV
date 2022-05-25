@@ -54,7 +54,7 @@ The goal of the thesis was complex automation of model selection and hyperparame
 ## Research projects
 - [Gray-box Clustering](https://github.com/Gray-Box-Clustering)
 - [AutoKE](https://ldrbmrtv.github.io/AutoKE/)
-- [Logic Graphs](https://logic-graphs.github.io/)
+- [Logic Graphs](https://github.com/Logic-Graphs)
 
 ## Publications
 
