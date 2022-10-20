@@ -42,19 +42,20 @@ The goal of the thesis was complex automation of model selection and hyperparame
 -	Research tools: Latex, Jupyter Notebook, Google colab, WebAnno/Inception
 
 ## Working experience
-- 2019-…  ITMO University, Faculty of Software Engineering and Computer Systems, [associate professor](https://scs.ifmo.ru/en/viewperson/224068/baimuratov-ildar.htm), software developer. Responsibilities: R&D, project management, lecturing, supervising
+- 2019-…  ITMO University, Faculty of Software Engineering and Computer Systems, associate professor, software developer.
+- 2022-… Leibniz University Hannover, L3S/TIB joint lab, postdoc.
 
 ## Industrial projects
 - 2018-2020 Cyber-physical systems management: research on clustering automation, prototyping, publishing scientific articles, participation in conferences
 - 2019-2021 "Digital University": development of intelligent services for students and university staff, including designing business processes, writing technical tasks, prototyping, data engineering, architecture design, software development, testing, team leading, code reviewing, writing documentation. Examples of services: scientific editions ranking, scientific publications ranking, university staff ranking, students ranking, educational program relevance prediction
-- 2020-2020 Development of a semantic model for the presentation of regulatory documents containing technical requirements: development of an ontology of normative documents, forming demonstration examples
-- 2021-…  Automation of requirements markup by creating a software service: development of a service for requirement extraction from regulatory documents, including writing technical tasks, prototyping, data engineering, architecture design, software development, team leading, testing, writing documentation
-- 2021-…  Development of an intelligent data management module for a media asset management platform: prototyping, architecture design, software development, testing, writing documentation
+- 2020-… Development of a semantic model and services for the representation of regulatory documents containing technical requirements: development of an ontology of normative documents and of a service for requirement extraction from regulatory documents, including writing technical tasks, prototyping, data engineering, architecture design, software development, team leading, testing, writing documentation, forming demonstration examples
+- 2021-2022  Development of an intelligent data management module for a media asset management platform: prototyping, architecture design, software development, testing, writing documentation
 
 ## Research projects
 - [Gray-box Clustering](https://github.com/Gray-Box-Clustering)
 - [AutoKE](https://ldrbmrtv.github.io/AutoKE/)
 - [Logic Graphs](https://github.com/Logic-Graphs)
+- [ORKG](https://orkg.org/)
 
 ## Publications
 
@@ -76,8 +77,9 @@ See [Research topics](topics.md)
 -	Member of the Council of Young Scientists of ITMO University
 -	Chairman at the conferences: MICSECS 2020, Conference of young scientists of ITMO University X (2021)
 -	Member of a program committee: MICSECS 2021
+-	Member of a program committee: DAMDID 2022
 
 ## Contacts:
-- Saint-Petersburg, Russia
+- Hannover, Germany
 - baimuratov.i@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/ildar-baimuratov-7496871b1/)
