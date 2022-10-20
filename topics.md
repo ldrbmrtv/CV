@@ -20,20 +20,23 @@ title: Research topics
 ## In progress
 
 ### Master's
+- Recognizing game events with computer vision
+- Recognizing plant deseases with computer vision
 
 ### PhD
-- Automation of machine learning pipeline design based on an ontological model of meta-learning
+- Methods for knowledge base extraction from normative documents
+- Methods for knowledge graphs and semantic narrative extraction from images
 
 ## Open for research
 
-[AutoKE](https://ldrbmrtv.github.io/AutoKE/) project at ITMO University:
+[Gray-Box clustering](https://github.com/Gray-Box-Clustering) project at ITMO University:
 - Entropy adjustment as a metaheuristic for balanced clustering
 - OPIC: objective prior information criterion for centroid clustering hyperparameter selection
 - Methods for non-centroid clustering automation
-- Information-theoretic measures for complex ontology evaluation
 
-Project with [Picvario](https://picvario.com/):
-- Methods for knowledge graphs and semantic narrative extraction from images
+[AutoKE](https://ldrbmrtv.github.io/AutoKE/) project at ITMO University:
+- Information-theoretic measures for ontology evaluation
+- Methods for controlable reasoning 
 
 Project with [NormaCS](https://www.normacs.ru/):
 - A method for automating the semantic annotation of building codes
@@ -47,9 +50,10 @@ Project with [NormaCS](https://www.normacs.ru/):
 - A method of diagrammatic verification of ontologies based on SHIF description logic
 
 Project at ITMO University:
-- A method for logical federated decision trees learning
-- A method for game-theoretic decision trees regularization
+- A method for logical federated decision tree learning
+- A method for game-theoretic decision tree regularization
 - A method of knowledge exchange for knowledge bases based on epistemic logic
 
 Project with [ORKG](https://orkg.org/):
 - A method for automating the semantic annotation of research papers
+- Automation of machine learning pipeline design based on an ontological model of meta-learning
