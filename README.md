@@ -28,6 +28,7 @@
 - 2021-2022  Picvario: intelligent module for a media asset management platform
 - 2022-...  ORKG: service for machine-reusable descriptions of research findings
 - 2023-... SE2A ICA-B4.2: knowledge representation in multidisciplinary analysis for aerospace engineering
+- 2023-2025  Formal argumentation: OWL-based dispute resolution
 
 ## Hard Skills
 -	Operating Systems: Windows, Linux
