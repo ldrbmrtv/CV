@@ -1,6 +1,3 @@
----
-title: Research topics
---- 
 # Research topics
 
 ## Completed
@@ -13,6 +10,8 @@ title: Research topics
 -	A method for neural architect search for clustering problems
 -	An application for semantic-oriented visualization of ontologies based on the Logic Graphs language
 -	An application for extracting requirements bases from industry standards and classifiers
+-	Informed Object Detection for Computer Games
+-	Developing a mobile application for plant recognition using a knowledge base
 
 ### PhD
 -	The method of diagrammatic verification of ontologies based on ALC description logic
@@ -20,40 +19,22 @@ title: Research topics
 ## In progress
 
 ### Master's
-- Recognizing game events with computer vision
-- Recognizing plant deseases with computer vision
+- Semantic representation of scientific claims for automated evidence-based verification
 
 ### PhD
 - Methods for knowledge base extraction from normative documents
-- Methods for knowledge graphs and semantic narrative extraction from images
+- NeuroSymbolic methods for plant disease recognition
 
 ## Open for research
 
-[Gray-Box clustering](https://github.com/Gray-Box-Clustering) project at ITMO University:
 - Entropy adjustment as a metaheuristic for balanced clustering
-- OPIC: objective prior information criterion for centroid clustering hyperparameter selection
-- Methods for non-centroid clustering automation
-
-[AutoKE](https://ldrbmrtv.github.io/AutoKE/) project at ITMO University:
-- Information-theoretic measures for ontology evaluation
-- Methods for controlable reasoning 
-
-Project with [NormaCS](https://www.normacs.ru/):
-- A method for automating the semantic annotation of building codes
+- Entropy-based objective priors for Bayesian optimisation in centroid clustering
+- Information-theoretic measures for computational knowledge extraction evaluation
+- Diagrammatic reasoning over ontologies
+- Visualization of semantic requirements for building model compliance
+- Automating the OWL DL representation of building regulations
 - Reasoning algorithms for building models compliance checking
-- Visualization of semantic requirements for building models
-
-[Argumentation](http://argumentation.tilda.ws/) project with [SPBU](https://english.spbu.ru/):
-- A method of ontology extraction for dispute resolution
-
-[Logic Graphs](https://logic-graphs.github.io/) project at ITMO University:
-- A method of diagrammatic verification of ontologies based on SHIF description logic
-
-Project at ITMO University:
-- A method for logical federated decision tree learning
-- A method for game-theoretic decision tree regularization
-- A method of knowledge exchange for knowledge bases based on epistemic logic
-
-Project with [ORKG](https://orkg.org/):
-- A method for automating the semantic annotation of research papers
-- Automation of machine learning pipeline design based on an ontological model of meta-learning
+- Structured representation and computational support for peer review
+- Meta-learning for scientific paper search by datasets
+- Reinforcement learning from symbolic reasoning feedback
+- Natural language understanding benchmark generation for contamination-proof LLM evaluation
