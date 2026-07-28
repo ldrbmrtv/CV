@@ -1,8 +1,6 @@
-# CV
-
 I am a postdoctoral researcher working on reliable and explainable AI through neuro-symbolic integration. My research focuses on combining machine learning with knowledge representation and automated reasoning to transform natural language into expressive symbolic representations that can be reasoned over. I explore applications in domains where trustworthy AI is essential, including building compliance, scholarly knowledge, and aerospace engineering.
 
-## Research Interests
+# Research Interests
 - Logics
 - Information theory
 - Knowledge representation & reasoning
@@ -14,7 +12,7 @@ I am a postdoctoral researcher working on reliable and explainable AI through ne
 - Building compliance checking
 - Aerospace engineering
 
-## Selected publications
+# Selected publications
 - I. Baimuratov. (2026). DeLTA: A Description Logic–based Annotation Schema for Constructing Expressive OWL DL Axioms from Text. Description Logics 2026.
 - I. Baimuratov & A. Karpovich. (2025). Abstract Argumentation Frameworks Extraction for Dispute Resolution in Scientific Peer Review. SEMANTiCS-PDWT 2025.
 - I. Antonau, S. Warnakulasuriya, S. Baars, I. Baimuratov, T. Wittenborg, L. Kreuzeberg, A. Attravanam & R. Wüchner. (2025). Challenges in realizing 3rd generation multidisciplinary design optimization. Advances in Computational Science & Engineering (ACSE), 5.
@@ -29,22 +27,22 @@ I am a postdoctoral researcher working on reliable and explainable AI through ne
 
 See full list at [Google Scholar](https://scholar.google.se/citations?user=aG08GegAAAAJ)
 
-## Selected repositories:
+# Selected repositories:
 - [DeLTA](https://github.com/ldrbmrtv/delta): Description Logic-based Text Annotation schema
 - [coupled_modelling](https://github.com/ldrbmrtv/coupled_modelling): Knowledge representation for multidisciplinary optimisation
 - [ReviewArgumentationFramework](https://github.com/ldrbmrtv/ReviewArgumentationFramework): A corpus of peer reviews with annotated abstract argumentation frameworks
 - [PDF2ORKG](https://github.com/ldrbmrtv/PDF2ORKG): Importing SciKGTeX annotations into ORKG
 - [computational_argumentation_dung](https://github.com/ldrbmrtv/computational_argumentation_dung): Encoding of Dung's abstract argumentation frameworks in OWL DL
 
-## Education
+# Education
 - 2009-2014  Specialist Student (equiv. to MA). Faculty of Philosophy, [SPBU](https://english.spbu.ru/), St. Petersburg, Russia. Specialization: Logic
 - 2016-2020  Ph.D. student. Faculty of Software Engineering and Computer Systems, [ITMO University](https://en.itmo.ru/), St. Petersburg, Russia. Thesis: The method of data models complex evaluation for automated unsupervised machine learning
 
-## Career
+# Career
 - 2019-2022  ITMO University, Faculty of Software Engineering and Computer Systems, associate professor, software developer.
 - 2022-....  Leibniz University Hannover, L3S/TIB joint lab, postdoc.
 
-## Projects
+# Projects
 - 2019-2021  "Digital University": intelligent services for students and university staff
 - 2020-2022  NSR Specification: digital platform with automated technologies for building compliance checking
 - 2021-2022  Picvario: intelligent module for a media asset management platform
@@ -53,7 +51,7 @@ See full list at [Google Scholar](https://scholar.google.se/citations?user=aG08G
 - 2023-....  SE2A ICA-B4.2: knowledge representation in multidisciplinary analysis for aerospace engineering
 - 2026-....  DIPONI: digital transformation and AI-supported process optimization in rubber and polymer processing
 
-## Supervising
+# Student supervision
 In progress:
 - MA Thesis: Semantic Representation of Scientific Claims for Automated Evidence-based Verification
 - MA Thesis: Generation of NLU Benchmarks from Formal Representations for Contamination-Proof LLM Evaluation
@@ -68,12 +66,12 @@ Suggested topics:
 
 See more details [here](topics.md)
 
-## Lecturing
+# Lecturing
 -	Non-classical logics (ITMO University, MA students)
 -	Machine learning methods (ITMO University, MA students)
 -	[Contemporary AI methods](https://www.youtube.com/channel/UCIsw-78RXEm3LYSl4Ry0-WQ) (ITMO University, PhD students)
 
-## Other achievements
+# Other achievements
 -	Creator of [scientific workshop](https://ldrbmrtv.github.io/SCS.Workshop/) of Faculty of Software Engineering and Computer Systems, ITMO University
 -	Member of the Council of Young Scientists of ITMO University
 -	Program chair: MICSECS 2020-2021
@@ -82,7 +80,7 @@ See more details [here](topics.md)
 -	L3S Best Paper Recognition 2024 for "Diagrammatic Reasoning for ALC Visualizations with Logic Graphs"
 -	SymGenAI4Sci 2025 best paper award for "Abstract Argumentation Frameworks Extraction for Dispute Resolution in Scientific Peer Review"
 
-## Technical skills
+# Technical skills
 -	Operating Systems: Windows, Linux
 -	Database Management System: SQLite, MySQL, MongoDB, GraphDB
 -	Programming/Query languages: Python, SQL, SPARQL, Datalog
@@ -94,8 +92,9 @@ See more details [here](topics.md)
 -	App libs: click , Flask, FastAPI, Dash
 -	Tools: LaTeX, Jupyter Notebook, Google colab, WebAnno/Inception, Git
 
-## Contacts & Links:
+# Contacts & Links:
 - Berlin, Germany
 - baimuratov.i@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/ildar-baimuratov-7496871b1/)
+- [ResearchGate](https://www.researchgate.net/profile/Ildar-Baimuratov)
 - [ORCID](https://orcid.org/0000-0002-6573-131X)
