@@ -63,7 +63,8 @@ Suggested topics:
 - GraphReview: Structured Representation for Formal-Argumentation-Based Computational Support in Scientific Peer Review
 - Meta-learning for Data-Driven Retrieval of Relevant Scientific Literature
 - Aligning Automatically Generated and Crowdsourced Scholarly Knowledge Graphs: A Case Study of CS-KG and ORKG
-See [more details](topics.md)
+
+See more details [here](topics.md)
 
 ## Lecturing
 -	Non-classical logics (ITMO University, MA students)
