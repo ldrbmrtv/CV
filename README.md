@@ -14,23 +14,6 @@ I am a postdoctoral researcher working on reliable and explainable AI through ne
 - Building compliance checking
 - Aerospace engineering
 
-## Education
-- 2009-2014  Specialist Student (equiv. to MA). Faculty of Philosophy, [SPBU](https://english.spbu.ru/), St. Petersburg, Russia. Specialization: Logic
-- 2016-2020  Ph.D. student. Faculty of Software Engineering and Computer Systems, [ITMO University](https://en.itmo.ru/), St. Petersburg, Russia. Thesis: The method of data models complex evaluation for automated unsupervised machine learning
-
-## Career
-- 2019-2022  ITMO University, Faculty of Software Engineering and Computer Systems, associate professor, software developer.
-- 2022-....  Leibniz University Hannover, L3S/TIB joint lab, postdoc.
-
-## Projects
-- 2019-2021  "Digital University": intelligent services for students and university staff
-- 2020-2022  NSR Specification: digital platform with automated technologies for building compliance checking
-- 2021-2022  Picvario: intelligent module for a media asset management platform
-- 2022-....  ORKG: service for machine-reusable descriptions of research findings
-- 2023-2025  Formal philosophy of argumentation: OWL-based dispute resolution
-- 2023-....  SE2A ICA-B4.2: knowledge representation in multidisciplinary analysis for aerospace engineering
-- 2026-....  DIPONI: digital transformation and AI-supported process optimization in rubber and polymer processing
-
 ## Selected publications
 - I. Baimuratov. (2026). DeLTA: A Description Logic–based Annotation Schema for Constructing Expressive OWL DL Axioms from Text. Description Logics 2026.
 - I. Baimuratov & A. Karpovich. (2025). Abstract Argumentation Frameworks Extraction for Dispute Resolution in Scientific Peer Review. SEMANTiCS-PDWT 2025.
@@ -52,6 +35,23 @@ See full list at [Google Scholar](https://scholar.google.se/citations?user=aG08G
 - [ReviewArgumentationFramework](https://github.com/ldrbmrtv/ReviewArgumentationFramework): A corpus of peer reviews with annotated abstract argumentation frameworks
 - [PDF2ORKG](https://github.com/ldrbmrtv/PDF2ORKG): Importing SciKGTeX annotations into ORKG
 - [computational_argumentation_dung](https://github.com/ldrbmrtv/computational_argumentation_dung): Encoding of Dung's abstract argumentation frameworks in OWL DL
+
+## Education
+- 2009-2014  Specialist Student (equiv. to MA). Faculty of Philosophy, [SPBU](https://english.spbu.ru/), St. Petersburg, Russia. Specialization: Logic
+- 2016-2020  Ph.D. student. Faculty of Software Engineering and Computer Systems, [ITMO University](https://en.itmo.ru/), St. Petersburg, Russia. Thesis: The method of data models complex evaluation for automated unsupervised machine learning
+
+## Career
+- 2019-2022  ITMO University, Faculty of Software Engineering and Computer Systems, associate professor, software developer.
+- 2022-....  Leibniz University Hannover, L3S/TIB joint lab, postdoc.
+
+## Projects
+- 2019-2021  "Digital University": intelligent services for students and university staff
+- 2020-2022  NSR Specification: digital platform with automated technologies for building compliance checking
+- 2021-2022  Picvario: intelligent module for a media asset management platform
+- 2022-....  ORKG: service for machine-reusable descriptions of research findings
+- 2023-2025  Formal philosophy of argumentation: OWL-based dispute resolution
+- 2023-....  SE2A ICA-B4.2: knowledge representation in multidisciplinary analysis for aerospace engineering
+- 2026-....  DIPONI: digital transformation and AI-supported process optimization in rubber and polymer processing
 
 ## Supervising
 In progress:
@@ -82,18 +82,20 @@ See more details [here](topics.md)
 -	L3S Best Paper Recognition 2024 for "Diagrammatic Reasoning for ALC Visualizations with Logic Graphs"
 -	SymGenAI4Sci 2025 best paper award for "Abstract Argumentation Frameworks Extraction for Dispute Resolution in Scientific Peer Review"
 
-## Hard skills
+## Technical skills
 -	Operating Systems: Windows, Linux
 -	Database Management System: SQLite, MySQL, MongoDB, GraphDB
--	Programming languages: Python, SQL, SPARQL, OWL, Datalog
--	Data libs: NumPy, pandas, BeautifulSoup, SQLAlchemy, NLTK, OpenCV
+-	Programming/Query languages: Python, SQL, SPARQL, Datalog
+-	Data libs: NumPy, pandas
+-	NLP libs: NLTK, CoreNLP, spaCy
 -	ML libs: SciPy, sklearn, mlxtend, statsmodels, Keras, transformers
 -	Visualization: matplotlib, plotly, graphviz 
--	Semantic technologies: Protégé, owlready2
+-	Semantic technologies: RDF, OWL, Protégé, owlready2
 -	App libs: click , Flask, FastAPI, Dash
--	Research tools: Latex, Jupyter Notebook, Google colab, WebAnno/Inception
+-	Tools: LaTeX, Jupyter Notebook, Google colab, WebAnno/Inception, Git
 
-## Contacts:
+## Contacts & Links:
 - Berlin, Germany
 - baimuratov.i@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/ildar-baimuratov-7496871b1/)
+- [ORCID](https://orcid.org/0000-0002-6573-131X)
