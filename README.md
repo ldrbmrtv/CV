@@ -125,7 +125,12 @@ See more details [here](topics.md)
 -	App libs: click , Flask, FastAPI, Dash
 -	Tools: LaTeX, Jupyter Notebook, Google colab, WebAnno/Inception, Git
 
-# Contacts & Links:
+# Languages
+- Russian: native
+- English: full professional proficiency
+- German: limited working proficiency
+
+# Contacts & Links
 - Berlin, Germany
 - baimuratov.i@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/ildar-baimuratov-7496871b1/)
