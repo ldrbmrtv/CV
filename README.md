@@ -1,5 +1,7 @@
 # CV
 
+I am a postdoctoral researcher working on reliable and explainable AI through neuro-symbolic integration. My research focuses on combining machine learning with knowledge representation and automated reasoning to transform natural language into expressive symbolic representations that can be reasoned over. I explore applications in domains where trustworthy AI is essential, including building compliance, scholarly knowledge, and aerospace engineering.
+
 ## Research Interests
 - Logics
 - Information theory
