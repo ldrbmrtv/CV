@@ -51,14 +51,24 @@ See full list at [Google Scholar](https://scholar.google.se/citations?user=aG08G
 - [PDF2ORKG](https://github.com/ldrbmrtv/PDF2ORKG): Importing SciKGTeX annotations into ORKG
 - [computational_argumentation_dung](https://github.com/ldrbmrtv/computational_argumentation_dung): Encoding of Dung's abstract argumentation frameworks in OWL DL
 
+## Supervising
+In progress:
+- MA Thesis: Semantic Representation of Scientific Claims for Automated Evidence-based Verification
+- MA Thesis: Generation of NLU Benchmarks from Formal Representations for Contamination-Proof LLM Evaluation
+
+Suggested topics:
+- Reinforcement Learning from Symbolic Reasoning Feedback: A Use Case from Building Compliance Checking
+- Facilitating OWL DL Representation of Scientific Claims Using DeLTA for Consistency Checking
+- Automating Translation of Natural Language Requirements into OWL DL Language Using DeLTA Annotation Schema: A Use Case from Building Compliance Checking
+- GraphReview: Structured Representation for Formal-Argumentation-Based Computational Support in Scientific Peer Review
+- Meta-learning for Data-Driven Retrieval of Relevant Scientific Literature
+- Aligning Automatically Generated and Crowdsourced Scholarly Knowledge Graphs: A Case Study of CS-KG and ORKG
+See [more details](topics.md)
+
 ## Lecturing
 -	Non-classical logics (ITMO University, MA students)
 -	Machine learning methods (ITMO University, MA students)
 -	[Contemporary AI methods](https://www.youtube.com/channel/UCIsw-78RXEm3LYSl4Ry0-WQ) (ITMO University, PhD students)
-
-## Supervising
-
-See [research topics](topics.md)
 
 ## Other achievements
 -	Creator of [scientific workshop](https://ldrbmrtv.github.io/SCS.Workshop/) of Faculty of Software Engineering and Computer Systems, ITMO University
