@@ -18,16 +18,16 @@
 
 ## Career
 - 2019-2022  ITMO University, Faculty of Software Engineering and Computer Systems, associate professor, software developer.
-- 2022-…  Leibniz University Hannover, L3S/TIB joint lab, postdoc.
+- 2022-....  Leibniz University Hannover, L3S/TIB joint lab, postdoc.
 
 ## Projects
 - 2019-2021  "Digital University": intelligent services for students and university staff
 - 2020-2022  NSR Specification: digital platform with automated technologies for building compliance checking
 - 2021-2022  Picvario: intelligent module for a media asset management platform
-- 2022-...  ORKG: service for machine-reusable descriptions of research findings
+- 2022-....  ORKG: service for machine-reusable descriptions of research findings
 - 2023-2025  Formal philosophy of argumentation: OWL-based dispute resolution
-- 2023-... SE2A ICA-B4.2: knowledge representation in multidisciplinary analysis for aerospace engineering
-- 2026-... DIPONI: digital transformation and AI-supported process optimization in rubber and polymer processing
+- 2023-....  SE2A ICA-B4.2: knowledge representation in multidisciplinary analysis for aerospace engineering
+- 2026-....  DIPONI: digital transformation and AI-supported process optimization in rubber and polymer processing
 
 ## Selected publications
 - I. Baimuratov. (2026). DeLTA: A Description Logic–based Annotation Schema for Constructing Expressive OWL DL Axioms from Text. Description Logics 2026.
@@ -44,6 +44,13 @@
 
 See full list at [Google Scholar](https://scholar.google.se/citations?user=aG08GegAAAAJ)
 
+## Selected repositories:
+- [DeLTA](https://github.com/ldrbmrtv/delta): Description Logic-based Text Annotation schema
+- [coupled_modelling](https://github.com/ldrbmrtv/coupled_modelling): Knowledge representation for multidisciplinary optimisation
+- [ReviewArgumentationFramework](https://github.com/ldrbmrtv/ReviewArgumentationFramework): A corpus of peer reviews with annotated abstract argumentation frameworks
+- [PDF2ORKG](https://github.com/ldrbmrtv/PDF2ORKG): Importing SciKGTeX annotations into ORKG
+- [computational_argumentation_dung](https://github.com/ldrbmrtv/computational_argumentation_dung): Encoding of Dung's abstract argumentation frameworks in OWL DL
+
 ## Lecturing
 -	Non-classical logics (ITMO University, MA students)
 -	Machine learning methods (ITMO University, MA students)
@@ -51,7 +58,7 @@ See full list at [Google Scholar](https://scholar.google.se/citations?user=aG08G
 
 ## Supervising
 
-See [Research topics](topics.md)
+See [research topics](topics.md)
 
 ## Other achievements
 -	Creator of [scientific workshop](https://ldrbmrtv.github.io/SCS.Workshop/) of Faculty of Software Engineering and Computer Systems, ITMO University
@@ -62,7 +69,7 @@ See [Research topics](topics.md)
 -	L3S Best Paper Recognition 2024 for "Diagrammatic Reasoning for ALC Visualizations with Logic Graphs"
 -	SymGenAI4Sci 2025 best paper award for "Abstract Argumentation Frameworks Extraction for Dispute Resolution in Scientific Peer Review"
 
-## Hard Skills
+## Hard skills
 -	Operating Systems: Windows, Linux
 -	Database Management System: SQLite, MySQL, MongoDB, GraphDB
 -	Programming languages: Python, SQL, SPARQL, OWL, Datalog
