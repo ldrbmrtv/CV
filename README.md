@@ -1,4 +1,4 @@
-I am a postdoctoral researcher working on reliable and explainable AI through neuro-symbolic integration. My research focuses on combining machine learning with knowledge representation and automated reasoning to transform natural language into expressive symbolic representations that can be reasoned over. I explore applications in domains where trustworthy AI is essential, including building compliance, scholarly knowledge, and aerospace engineering.
+I am a postdoctoral researcher developing reliable and explainable AI systems through neuro-symbolic integration. My research focuses on combining machine learning with knowledge representation and automated reasoning to transform natural language into expressive symbolic representations that can be verified and reasoned over. I investigate applications in domains where correctness, transparency, and formal guarantees are critical, including automated building compliance checking, scholarly communication, and aerospace engineering.
 
 # Research Interests
 - Logics
@@ -12,27 +12,60 @@ I am a postdoctoral researcher working on reliable and explainable AI through ne
 - Building compliance checking
 - Aerospace engineering
 
-# Selected publications
+# Research directions
+
+## Description logic-based natural language formalization
+Developing methods for transforming domain knowledge expressed in natural language into machine-interpretable symbolic representations.
+
+Publications:
 - I. Baimuratov. (2026). DeLTA: A Description Logic–based Annotation Schema for Constructing Expressive OWL DL Axioms from Text. Description Logics 2026.
-- I. Baimuratov & A. Karpovich. (2025). Abstract Argumentation Frameworks Extraction for Dispute Resolution in Scientific Peer Review. SEMANTiCS-PDWT 2025.
-- I. Antonau, S. Warnakulasuriya, S. Baars, I. Baimuratov, T. Wittenborg, L. Kreuzeberg, A. Attravanam & R. Wüchner. (2025). Challenges in realizing 3rd generation multidisciplinary design optimization. Advances in Computational Science & Engineering (ACSE), 5.
-- U. Saluz, I. Baimuratov & P. Geyer. (2025). Large-language-model-based building-information-model alignment for automatic-compliance-checking: towards closing the gap between model authoring and model checking for kit-of-parts architecture. EG-ICE 2025.
+
+Repositories:
+- [DeLTA](https://github.com/ldrbmrtv/delta): Description Logic–based Text Annotation Schema
+
+## Automated building compliance checking
+Representing regulatory requirements as OWL DL axioms and enabling reasoning-based compliance checking.
+
+Publications:
 - I. Baimuratov & D. Turygin. (2025). Representing Normative Regulations in OWL DL for Automated Compliance Checking Supported by Text Annotation. LDAC 2025.
-- I. Baimuratov, T. Wittenborg, I. Antonau & S. Baars. (2025). Enabling Reuse of Knowledge from Coupled Systems in Aerospace Engineering. SEMANTiCS-PDWT 2025.
-- I. Baimuratov, A. Karpovich, E. Lisanyuk & D. Prokudin. (2024). Argument Identification for Neuro-Symbolic Dispute Resolution in Scientific Peer Review. ACM/IEEE JCDL 2024.
-- I. Baimuratov. (2024). Diagrammatic Reasoning for ALC Visualization with Logic Graphs. ACM Web Conference (WWW) 2024.
-- C. Bless, I. Baimuratov & O. Karras. (2023). SciKGTeX-a LATEX package to semantically annotate contributions in scientific publications. ACM/IEEE JCDL 2023.
+- U. Saluz, I. Baimuratov & P. Geyer. (2025). Large-language-model-based building-information-model alignment for automatic-compliance-checking: towards closing the gap between model authoring and model checking for kit-of-parts architecture. EG-ICE 2025.
+
+## Computational support in peer review
+Combining computational argumentation, semantic representations, and machine learning for analyzing scientific peer review.
+
+Publications:
 - I. Baimuratov, E. Lisanyuk, & D. Prokudin. (2023). Dispute Resolution with OWL DL and Reasoning. Description Logics 2023.
+- I. Baimuratov, A. Karpovich, E. Lisanyuk & D. Prokudin. (2024). Argument Identification for Neuro-Symbolic Dispute Resolution in Scientific Peer Review. ACM/IEEE JCDL 2024.
+- I. Baimuratov & A. Karpovich. (2025). Abstract Argumentation Frameworks Extraction for Dispute Resolution in Scientific Peer Review. SEMANTiCS-PDWT 2025.
+
+Repositories:
+- [computational_argumentation_dung](https://github.com/ldrbmrtv/computational_argumentation_dung): Encoding of Dung's abstract argumentation frameworks in OWL DL
+- [ReviewArgumentationFramework](https://github.com/ldrbmrtv/ReviewArgumentationFramework): A corpus of peer reviews with annotated abstract argumentation frameworks
+
+## Scholarly knowledge infrastructures
+Building semantic infrastructures for scientific knowledge management.
+
+Publications:
+- C. Bless, I. Baimuratov & O. Karras. (2023). SciKGTeX-a LATEX package to semantically annotate contributions in scientific publications. ACM/IEEE JCDL 2023.
+
+Repositories:
+- [PDF2ORKG](https://github.com/ldrbmrtv/PDF2ORKG): Importing SciKGTeX annotations into ORKG
+
+## Knowledge representation for engineering
+Advancing FAIR principles in engineering domains.
+
+Publications:
+- I. Antonau, S. Warnakulasuriya, S. Baars, I. Baimuratov, T. Wittenborg, L. Kreuzeberg, A. Attravanam & R. Wüchner. (2025). Challenges in realizing 3rd generation multidisciplinary design optimization. Advances in Computational Science & Engineering (ACSE), 5.
+- I. Baimuratov, T. Wittenborg, I. Antonau & S. Baars. (2025). Enabling Reuse of Knowledge from Coupled Systems in Aerospace Engineering. SEMANTiCS-PDWT 2025.
+
+Repositories:
+- [coupled_modelling](https://github.com/ldrbmrtv/coupled_modelling): Knowledge representation for multidisciplinary optimisation
+
+# Other publications
+- I. Baimuratov. (2024). Diagrammatic Reasoning for ALC Visualization with Logic Graphs. ACM Web Conference (WWW) 2024.
 - B. Zhou, Y. Svetashova, T. Pychynski, I. Baimuratov, A. Soylu & E. Kharlamov. (2020). SemFE: Facilitating ML pipeline development with semantics. ACM CIKM 2020.
 
 See full list at [Google Scholar](https://scholar.google.se/citations?user=aG08GegAAAAJ)
-
-# Selected repositories:
-- [DeLTA](https://github.com/ldrbmrtv/delta): Description Logic-based Text Annotation schema
-- [coupled_modelling](https://github.com/ldrbmrtv/coupled_modelling): Knowledge representation for multidisciplinary optimisation
-- [ReviewArgumentationFramework](https://github.com/ldrbmrtv/ReviewArgumentationFramework): A corpus of peer reviews with annotated abstract argumentation frameworks
-- [PDF2ORKG](https://github.com/ldrbmrtv/PDF2ORKG): Importing SciKGTeX annotations into ORKG
-- [computational_argumentation_dung](https://github.com/ldrbmrtv/computational_argumentation_dung): Encoding of Dung's abstract argumentation frameworks in OWL DL
 
 # Education
 - 2009-2014  Specialist Student (equiv. to MA). Faculty of Philosophy, [SPBU](https://english.spbu.ru/), St. Petersburg, Russia. Specialization: Logic
